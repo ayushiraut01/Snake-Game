@@ -14,20 +14,18 @@ Explain how to install and run the game.
 
 1️⃣ Clone this repository:
 ```bash https://github.com/ayushiraut01/Snake-Gam
-
-## 📝 Code Structure
+📝 Code Structure
 
 - `snake.py` → Main game logic (snake movement, collisions, score tracking)
 - `food.py` → Generates food at random locations
 - `scoreboard.py` → Displays the player's score
 - `game.py` → Manages game loop and resets
-
-### **🛠 Key Functions**
+ **🛠 Key Functions**
 - `move()` → Moves the snake in the current direction
 - `check_collision()` → Detects collisions with walls or itself
 - `increase_length()` → Adds a new segment to the snake after eating food
 - `game_over()` → Ends the game if the snake collides
-## 🛠 Technologies Used
+ 🛠 Technologies Used
 - Python 🐍
 - Turtle Graphics 🎨
 - Random Module 🎲
