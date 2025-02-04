@@ -4,7 +4,7 @@
 A classic Snake game built using Python and the Turtle module. This game allows players to control a snake, eat food, and grow in size while avoiding collisions with the walls or itself
 ## 🎮 Features
 ✅ Classic snake movement using arrow keys  
-✅ Food that appears randomly  
+✅ Food that appears randomly
 ✅ Score tracking system  
 ✅ Game over when the snake hits the wall or itself  
 ✅ Simple and fun to play!  
