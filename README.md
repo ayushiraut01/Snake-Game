@@ -10,10 +10,6 @@ A classic Snake game built using Python and the Turtle module. This game allows 
 ✅ Game over when the snake hits the wall or itself  
 ✅ Simple and fun to play!  
  
- ##Installation Instructions
-Explain how to install and run the game.
-## ⚙️ Installation & Setup
-
 ## Clone this repository:
 ```bash https://github.com/ayushiraut01/Snake-Game
 📝 Code Structure
